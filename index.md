@@ -1,43 +1,33 @@
 
 # **Alejandro Linares Molina**
 ## Objetivo Profesional
-Tengo conocimiento con aplicaciones como Cisco, Wireshark, Access y Excel. 
-Mi objetivo es trabajar en el área de redes y programacion.
+Mis objetivos profesionales son principalmente aprender como funciona el mundo laboral, empaparme del mundo informático, desarrollar mis capacidades y mejorar como profesional, me gusta el deporte y siempre busco mejoría física y mental. Me motiva aprender, crecer y mejorar, porque siempre tengo ganas y estoy dispuesto a trabajar.
 
 ## Formación
 ### 2020 ESO
-INS, Eugeni Ors, L’Hospitalet de Llobregat, Barcelona
-• Con un promedio de un 6 aprobé la ESO.
-### 2020 - Actualidad, FPGM Sistemas Microinformáticos y Redes
- iFP Centro de Formación Profesional, Barcelona
+Instituto Frederic Mompou, Sant Vicencs dels Horts, 08620, Barcelona
+Bachillerato, Colegio Incoval, Templete, Cali, Colombia
 
-### Complementario
-2021 Competencias Digitales Excel (MOS)
-• Certificado por Microsoft.
- 2021 Inglés B2
-• English Connection - Pubilla Cases, L’Hospitalet de Llobregat,
-Barcelona
+### 2022-24 - FPGM - Sistemas Microinformáticos y Redes
+iFP Centro de Formación Profesional, Barcelona
 
 ## Experiencia
-Si bien no dispongo de recorrido o no tengo directamente experiencia
-estoy en proceso de mejora y con ganas de comenzar ya.
+Manejo de Bases de Datos en Plataformas como Access y Clientify.
+Creacion de proyectos de redes y sistemas.
+Transportista de Alimentos.
+Repartidor de Condis
+Mozo de Almacen en Mercabarna
+
+## Complementario
+Carnet de Conducir B
+conocimiento alto en Excel
+Alta nocion en CCNNA (Cisco) 
 
 ## Competencias personales
-Soy una persona proactiva, con iniciativa, con capacidad de
-organización, además, se gestionar el estrés y sé adaptarme a ambiente
-de trabajo colaborativo social.
-
-## Otros datos de interés
-Dispongo de tiempo para trabajar por las tardes por lo cual puedo
-adaptarme con facilidad a las exigencias que en su momento se den.
-Si bien el tiempo es una de las cosas que menos me preocupan, he de
-decir que los martes y jueves hago 1h y 30min de inglés. Pero estas se
-pueden adaptar perfectamente a mis prácticas, a fin de aprovechar
-bien el tiempo.
-
+Soy una persona comunicativa, cuando no entiendo algo lo manifiesto y pido ayuda. Me gusta la retroalimentación y el trabajo en equipo y cuando se presentan complicaciones soy bueno para hallar soluciones.
+ 
 ### Idiomas
 | Idioma | Nivel |
 |:---:|   :---:|
 |Castellano | Nivel Alto|
-|Catalán| Nivel Alto|
-|Inglés| Nivel Medio|
+|Inglés| Nivel Alto|
