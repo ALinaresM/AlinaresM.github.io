@@ -1,4 +1,4 @@
-<img src="https://github.com/iBrohl/ibrohl.github.io/blob/main/Captura de pantalla 2023-12-14 093927.png">
+<img src="Captura de pantalla 2023-12-14 093927.png">
 
 # **Alejandro Linares Molina**
 ## Objetivo Profesional
