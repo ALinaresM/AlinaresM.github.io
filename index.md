@@ -31,7 +31,7 @@ conocimiento alto en Excel
 Alta nocion en CCNNA (Cisco) 
 
 ## Competencias personales
-Soy una persona comunicativa, cuando no entiendo algo lo manifiesto y pido ayuda. Me gusta la retroalimentación y el trabajo en equipo y cuando se presentan complicaciones soy bueno para hallar soluciones.
+Soy una persona comunicativa, cuando no entiendo algo lo manifiesto y pido ayuda. Me gusta la retroalimentación y el trabajo en equipo, cuando se presentan complicaciones soy bueno para hallar soluciones.
  
 ### Idiomas
 | Idioma | Nivel |
