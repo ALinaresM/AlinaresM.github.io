@@ -20,7 +20,9 @@ Mozo de Almacen en Mercabarna
 
 ## Complementario
 Carnet de Conducir B
+
 conocimiento alto en Excel
+
 Alta nocion en CCNNA (Cisco) 
 
 ## Competencias personales
