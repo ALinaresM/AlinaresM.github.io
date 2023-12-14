@@ -14,9 +14,13 @@ iFP Centro de Formación Profesional, Barcelona
 
 ## Experiencia
 Manejo de Bases de Datos en Plataformas como Access y Clientify.
+
 Creacion de proyectos de redes y sistemas.
+
 Transportista de Alimentos.
+
 Repartidor de Condis
+
 Mozo de Almacen en Mercabarna
 
 ## Complementario
