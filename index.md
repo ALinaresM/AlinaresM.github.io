@@ -6,6 +6,7 @@ Mis objetivos profesionales son principalmente aprender como funciona el mundo l
 ## Formación
 ### 2020 ESO
 Instituto Frederic Mompou, Sant Vicencs dels Horts, 08620, Barcelona
+
 Bachillerato, Colegio Incoval, Templete, Cali, Colombia
 
 ### 2022-24 - FPGM - Sistemas Microinformáticos y Redes
