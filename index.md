@@ -1,4 +1,4 @@
-<img src="imagen_2022-04-25_221644148.png">
+<img src="CVfto.png">
 
 # **Alejandro Linares Molina**
 ## Objetivo Profesional
