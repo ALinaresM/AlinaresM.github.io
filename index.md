@@ -1,4 +1,4 @@
-<img src="Captura de pantalla 2023-12-14 093927 (2).png">
+<img src="imagen_2022-04-25_221644148.png">
 
 # **Alejandro Linares Molina**
 ## Objetivo Profesional
